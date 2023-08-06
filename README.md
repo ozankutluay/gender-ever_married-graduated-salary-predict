@@ -1,2 +1,2 @@
 # Predicting Bank Employees' Salaries
-This project involves an examination of the relationship between gender, ever_married, graduated, and the salaries of bank employees in a given dataset. Additionally, it aims to predict employee salaries using artificial intelligence based on these variables.
+This project involves analyzing the relationship between gender, marital status, graduated, and salaries of bank employees within a specific dataset. The goal of the project is to visualize the data set and examine the correlations between different columns to derive meaningful insights. Additionally, the project aims to use artificial intelligence to predict employee salaries based on these variables.
